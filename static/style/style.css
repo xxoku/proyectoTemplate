@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(34, 99, 77);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+li {
+    color: rgb(39, 241, 208);
+}
+
+div li {
+    text-align: left;
+
+}
+
+#datos {
+    text-align: center;
+}

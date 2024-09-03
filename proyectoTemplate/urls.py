@@ -24,6 +24,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('render/', renderTemplate),
     path('nombre/', renderTemplate2),
-    path('Infousuario/', userTemplate)
+    path('', userTemplate)
 
 ]
